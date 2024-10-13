@@ -1,0 +1,7 @@
+This is a project of practice code for book <Build a Large Language Model (From Scratch)>
+Please make sure the best practise of python project and LLM project.
+Add necessary comments to the code.
+Explain the main idea in README.md
+Logging the main steps and ideas for easier debugging for myself.
+
+
